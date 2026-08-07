@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Engineer | Research Analyst | LLM Enthusiast<br><br>I design and build multi-agent AI systems, train and fine-tune LLMs (GPT-based models), and help businesses automate workflows through applied AI. My work sits at the intersection of research and real-world implementation — turning experimental ideas into production-ready systems.<br><br>🤖 Currently building: multi-agent AI architectures<br>🧠 Training/fine-tuning my own GPT/LLM models<br>📊 Research Analyst — bridging data-driven insight with AI engineering<br>🚀 Helping businesses automate processes with AI<br>💬 Ask me about: agentic workflows, LLM training, AI automation<br><br>⚡ Fun fact: I once got so deep into training my own LLM that I forgot I was supposed to be using AI to save time, not spend all my time building it.
+AI Engineer | Research Analyst | LLM Enthusiast
 
 
 ## 🌐 Socials:
