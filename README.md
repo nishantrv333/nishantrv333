@@ -1,4 +1,3 @@
-# 💫 About Me:
 AI Engineer | Research Analyst | LLM Enthusiast
 
 
